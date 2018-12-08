@@ -1,1 +1,2 @@
-# node_server_task
+Run npm install
+Run node index.js
