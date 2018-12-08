@@ -1,3 +1,2 @@
-Run npm install
-
-Run node index.js
+1. Run npm install
+2. Run node index.js
